@@ -23,7 +23,7 @@ public class Not {
         } else if (ortalama == 60) {
             System.out.println("ucu ucuna");
         }else {
-            System.out.println("afrn");
+            System.out.println("afrnn");
         }
 
         System.out.println("Ortalamanız : " + ortalama);
